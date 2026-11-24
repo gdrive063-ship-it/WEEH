@@ -1,0 +1,6 @@
+{
+  "name": "WEEH",
+  "description": "Wireless Electromagnetic Energy Harvester live telemetry dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
